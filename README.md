@@ -12,7 +12,7 @@ Screen No | Design
 
 Request Type | API End Point
 ------------ | -------------
-POST | http://localhost/agro/api/user/mobno
+POST | http://localhost/login
 
 :Header:
 ```javascript
